@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 	
-_vamos a pegarlo_
-__la marihuana sabe bueno__
+
