@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 	
-![Alt](https://upload.wikimedia.org/wikipedia/commons/f/f3/One_piece.png
-)
+![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D233584%26name%3DRick%2By%2BMorty%2BFondos%2Bde%2Bpantalla%26lang%3DSpanish&psig=AOvVaw0Xnrdjzc5MRTDzNkp97Q-u&ust=1697666727895000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOD6kcSL_oEDFQAAAAAdAAAAABAc)
 
 ![nicoApo616's Stats](https://github-readme-stats.vercel.app/api?username=nicoApo616&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![nicoApo616's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicoApo616&theme=vue-dark&hide_border=true)
