@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 	
+![Uploading thumb-1920-1330376.png…]()
 
 
 ![nicoApo616's Stats](https://github-readme-stats.vercel.app/api?username=nicoApo616&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
